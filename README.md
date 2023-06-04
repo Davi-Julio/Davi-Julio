@@ -6,7 +6,7 @@
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-Julio&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&layout=donut)](https://github.com/Davi-Julio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&layout=donut_icons=true&theme=dracula)](https://github.com/Davi-Julio)
 
 ### Tecnologias que Utilizo
 
