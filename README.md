@@ -4,6 +4,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davijulio062/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-j%C3%BAlio-801801240/) 
+
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-Julio&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&layout=donut_icons=true&theme=dracula)](https://github.com/Davi-Julio)
