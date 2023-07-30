@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&show=_icons=true&theme=dracula)](https://github.com/Davi-Julio)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que Utilizo ♥ 💻 🖱
 <hr>
