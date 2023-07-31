@@ -9,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
+<br>
+
 - 🔭 Tecnologias que Utilizo no meu dia a dia 💻 🖱 ♥
  
 <div style="display: inline_block"><br>
