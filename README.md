@@ -1,7 +1,7 @@
 
 ### Olá! Meu nome é Davi Júlio 👍! Futuro Dev Full Stack ! 🖤 🖥️ ♠ ♥ .
 
-- 🔭 Apaixonado por tecnologia
+- ♥♠ Apaixonado por tecnologia
 
 <div align="center">
   <a href="https://github.com/davidluiz91">
@@ -11,7 +11,7 @@
 
 <br>
 
-- 🔭 Tecnologias que Utilizo no meu dia a dia 💻 🖱 ♥ .
+- 💻📌 Tecnologias que Utilizo no meu dia a dia 💻 🖱 ♥ .
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
