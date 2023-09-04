@@ -20,7 +20,6 @@
   <img align="center" alt="Davi-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Davi-MySql" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="60" width="70" src="https://velog.velcdn.com/images/baeyuna97/post/3aa4096b-1d9b-4f31-9970-b52b3c3db61d/image.png" alt="" />
-  <img align="center" height="30" width="35" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" alt="" />
   <img align="center" alt="Davi-Vscode" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Davi-Vscode" height="40" width="45" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" />
   </div>
