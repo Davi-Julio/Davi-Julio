@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-### 📌<h1>FullStack Developer</h1>
+### <h1> -📌 FullStack Developer</h1>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=50%  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Davi-Julio&theme=radical&mode=weekly" />
