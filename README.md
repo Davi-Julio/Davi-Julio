@@ -2,7 +2,7 @@
 <div>
   
   <h1 align="center">
-    <span style="color: orange">Desenvolvedor FullStack</span>
+    <span>Desenvolvedor Full Stack ♠</span>
   </h1>
   
 </div>
