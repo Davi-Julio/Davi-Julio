@@ -2,7 +2,6 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou Davi Júlio <br>
     <span style="color: orange">Desenvolvedor FullStack</span>
   </h1>
   
