@@ -1,14 +1,4 @@
 
-<div>
-  
-  <h1 align="center">
-    <span> 📌 Desenvolvedor Full Stack  </span>
-  </h1>
-  
-</div>
-
-<br>
-
 ## my toolls :
 
 <div><br>
