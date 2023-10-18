@@ -1,7 +1,16 @@
+<div>
+  <p>📌Davi Júlio-</p>
+  <h1>FULLSTACK DEVELOPER</h1>
+</div>
+<br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davi-Julio&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=F8F8FF&bg_color=0d1117" alt="Davi_julio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&layout=compact&hide_border=true&title_color=FFD700&text_color=F8F8FF&bg_color=0d1117" />
+</div>
 
-## my toolls :
+<br><br/>
 
-<div><br>
+<div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -16,15 +25,7 @@
 
 <br><br/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davi-Julio&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=F8F8FF&bg_color=0d1117" alt="Davi_julio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&layout=compact&hide_border=true&title_color=FFD700&text_color=F8F8FF&bg_color=0d1117" />
-</div>
-
-<br><br/>
-
-## contact :
-<div align="center">
+<div align="center" valign="top" >
   <a href="https://www.instagram.com/davijulio062/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-j%C3%BAlio-801801240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="davijulio550@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
