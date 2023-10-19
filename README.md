@@ -1,7 +1,7 @@
 <div>
   <p>📌Davi Júlio-</p>
-  <h1>FULLSTACK DEVELOPER</h1>
-  <h4>Desenvolvedor Full Stack ♠ - PHP | Laravel | Javascript | JQuery | MySQL</h4>
+  <h1>FULLSTACK DEVELOPER-</h1>
+  <h4>Desenvolvedor Full Stack ♠ - PHP | Laravel | Javascript | JQuery | MySQL-</h4>
 </div>
 <br>
 <div align="center">  
