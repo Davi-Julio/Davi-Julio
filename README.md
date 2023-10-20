@@ -1,6 +1,6 @@
 <div>
   <p>📌Davi Júlio-</p>
-  <h1>Desenvolvedor Full Stack ♠ - PHP | Laravel | Javascript | JQuery | MySQL-</h1>
+  <h2>Desenvolvedor Full Stack ♠ - PHP | Laravel | Javascript | JQuery | MySQL-</h2>
 </div>
 <br>
 <div align="center">  
