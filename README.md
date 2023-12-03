@@ -2,7 +2,7 @@
 ## 📌 Davi Júlio -
 ## Desenvolvedor Full Stack ♠ - PHP | Laravel | Javascript | JQuery | MySQL
 
-## 📌 My Skills: 
+📌My Skills: 
 
 <div display="inline-block">
   Back End
