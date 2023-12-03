@@ -20,7 +20,7 @@
 
 ## 📌My Skills: 
 
-<div display="inline-block">
+<div  align="center" display="inline-block">
   
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,jquery,mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vscode,git&theme=light)](https://skillicons.dev)
