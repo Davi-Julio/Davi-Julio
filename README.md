@@ -1,17 +1,19 @@
+<div align="center">
+  <p>📌 Davi Júlio</p>
+</div>
 
-## 📌 Davi Júlio -
-## Desenvolvedor Full Stack ♠ - PHP | Laravel | Javascript | JQuery | MySQL
+
+<div align="center">
+  <h2>Desenvolvedor Full Stack ♠ - PHP | Laravel | Javascript | JQuery | MySQL</h2>
+</div>
+
 
 📌My Skills: 
 
 <div display="inline-block">
-  Back End
-  
-  [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev) <br>
-  Front End
-  
-  [![My Skills](https://skillicons.dev/icons?i=,html,css,bootstrap,javascript,jquery)](https://skillicons.dev)
-  
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,jquery,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vscode,git&theme=light)](https://skillicons.dev)
 </div>
 
 <div align="center">
