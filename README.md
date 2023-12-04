@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h2>Desenvolvedor Full Stack ♠ - PHP | Laravel | Javascript | JQuery | MySQL</h2> 
+  <h2>FullStack Developer - PHP | Laravel | JavaScript | JQuery | MySql</h2> 
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davijulio/)
 [![LinKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-j%C3%BAlio-801801240/)
