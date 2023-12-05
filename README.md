@@ -1,13 +1,6 @@
-<div align="center">
-  <p>📌 Davi Júlio</p>
-</div>
-
-
-<div align="center">
+<div>
   <h2>FullStack Developer - PHP | Laravel | JavaScript | JQuery | MySql</h2> 
 </div>
-
-
 <div align="center">
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davi-Julio&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=F8F8FF&bg_color=0d1117" alt="PauloGabrielB github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&layout=compact&hide_border=true&title_color=FFD700&text_color=F8F8FF&bg_color=0d1117" />
