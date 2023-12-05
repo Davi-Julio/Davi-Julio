@@ -21,8 +21,9 @@
 
 
 <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davi-Julio&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=F8F8FF&bg_color=0d1117" alt="PauloGabrielB github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&layout=compact&hide_border=true&title_color=FFD700&text_color=F8F8FF&bg_color=0d1117" />
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davi-Julio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&theme=dracula&hide_border=false&&layout=compact"/>
 </div>
 
 
