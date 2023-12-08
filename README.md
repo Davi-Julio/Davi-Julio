@@ -13,9 +13,9 @@
 
 <div align="center">
 <p> 
-  🚀Frontend com JavaScript, jQuery e Bootstrap, trabalho para garantir interfaces intuitivas e responsivas.
+  🚀FrontEnd com JavaScript, jQuery e Bootstrap, trabalho para garantir interfaces intuitivas e responsivas.
   
-💻 No backend, meu foco está no PHP e o Framework Laravel. , implementando lógica robusta e eficiente para tornar os projetos funcionais e escaláveis. Trabalho com banco de dados relacional MySQL para garantir uma manipulação eficaz e segura dos dados.
+💻 No BackEnd, meu foco está no PHP e o Framework Laravel. , implementando lógica robusta e eficiente para tornar os projetos funcionais e escaláveis. Trabalho com banco de dados relacional MySQL para garantir uma manipulação eficaz e segura dos dados.
   </p>
 </div>
 
