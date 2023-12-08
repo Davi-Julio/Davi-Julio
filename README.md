@@ -8,7 +8,7 @@
 </div>
 
 <div  align="center">
-  <h2>FullStack Developer - PHP | Laravel | JavaScript | JQuery | MySql</h2> 
+  <h2>Full Stack Developer - PHP | Laravel | JavaScript | JQuery | MySql</h2> 
 </div>
 
 <div align="center">
