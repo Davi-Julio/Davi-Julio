@@ -8,15 +8,13 @@
 </div>
 
 <div  align="center">
-  <h1>FullStack Developer - PHP | Laravel | JavaScript | JQuery | MySql</h1> 
+  <h2>FullStack Developer - PHP | Laravel | JavaScript | JQuery | MySql</h2> 
 </div>
 
 <div align="center">
-<p>🚀Frontend com JavaScript, jQuery e Bootstrap, trabalho para garantir interfaces intuitivas e responsivas.
-
+<h4>🚀Frontend com JavaScript, jQuery e Bootstrap, trabalho para garantir interfaces intuitivas e responsivas.
 💻 No backend, meu foco está no PHP e o Framework Laravel. , implementando lógica robusta e eficiente para tornar os projetos funcionais e escaláveis. Trabalho com banco de dados relacional MySQL para garantir uma manipulação eficaz e segura dos dados.
-  </p>
-
+  </h4>
 </div>
 
 <div  align="center" display="inline-block">
