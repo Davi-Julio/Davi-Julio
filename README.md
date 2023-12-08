@@ -11,7 +11,6 @@
   <h2>FullStack Developer - PHP | Laravel | JavaScript | JQuery | MySql</h2> 
 </div>
 
-
 <div  align="center" display="inline-block">
   
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,jquery,mysql)](https://skillicons.dev)
