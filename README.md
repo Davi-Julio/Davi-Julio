@@ -8,7 +8,7 @@
 </div>
 
 <div  align="center">
-  <h2>Full Stack Developer - PHP | Laravel | JavaScript | JQuery | MySql</h2> 
+  <h2>Full Stack Developer - PHP | Laravel | VueJS | JavaScript | MySQL</h2> 
 </div>
 
 <div align="center">
@@ -19,7 +19,9 @@
   </p>
 </div>
 
-📌Stack
+##
+
+ ##📌 skills:
 <div  align="center" display="inline-block">
   
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,mysql,javascript,jquery,docker)](https://skillicons.dev)
