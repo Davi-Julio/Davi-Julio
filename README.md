@@ -19,6 +19,7 @@
   </p>
 </div>
 
+📌Stack
 <div  align="center" display="inline-block">
   
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,mysql,javascript,jquery,docker)](https://skillicons.dev)
