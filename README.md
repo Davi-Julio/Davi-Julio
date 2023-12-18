@@ -2,24 +2,6 @@
   <h2>Full Stack Developer - PHP | Laravel | VueJS | JavaScript | MySQL</h2> 
 </div>
 
-<div align="center">
-<p> 
-  Olá, eu sou Davi Júlio, Atualmente focado no Desenvolvimento Full Stack, lidando com desenvolvimento, correções de bugs e criação de algoritmos tanto no Front End quanto no Back End, possuo experiência de desenvolvimento nas seguintes tecnologias:
-
-PHP e Laravel: Desenvolvimento Back-End eficientes e escaláveis, utilizando Laravel como framework principal. Desde a criação de APIs RESTful até a implementação de funcionalidades avançadas, meu foco é garantir a excelência no desenvolvimento.
-
-JavaScript, jQuery e Vue.js: Como entusiasta da experiência do usuário, domino o desenvolvimento front-end com JavaScript puro, jQuery e Vue.js. Trabalho para criar interfaces intuitivas e responsivas, proporcionando uma experiência de usuário excepcional.
-
-MySQL: Gerenciamento eficaz de bancos de dados MySQL, otimizando consultas e garantindo a integridade dos dados. Minha expertise abrange desde modelagem de dados até a implementação de soluções de armazenamento eficientes.
-
-Docker: Utilizo Docker para facilitar a criação, distribuição e execução de ambientes de desenvolvimento e produção. Com o Docker, consigo garantir consistência e isolamento, simplificando o processo de implantação de aplicativos.
-
-Desenvolvimento Full Stack: Tenho uma abordagem holística para o desenvolvimento, cobrindo tanto o front-end quanto o back-end. Isso me permite criar soluções completas e integradas para os projetos em que estou envolvido.
-  </p>
-</div>
-
-##
-
 <div align="center"> 
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davijulio/)
