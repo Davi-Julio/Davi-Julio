@@ -8,7 +8,7 @@
 </div>
 
 <div  align="center">
-  <h2>Full Stack Developer - PHP | Laravel | VueJS | JavaScript | MySQL</h2> 
+  <h2>Full Stack Developer - PHP | Laravel | VueJS | Docker | MySQ</h2> 
 </div>
 
 📌Skills
