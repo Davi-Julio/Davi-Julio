@@ -25,7 +25,7 @@
 
  <img  width="45%" height="100%"  src="https://github-readme-stats.vercel.app/api?username=Davi-Julio&show_icons=true&theme=radical">
 
- <img width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
+ <img width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Julio&layout=compact&theme=radical">
 </div>
 
 
