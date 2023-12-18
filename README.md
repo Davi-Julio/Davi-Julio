@@ -1,5 +1,11 @@
 <div  align="center">
   <h2>Full Stack Developer - PHP | Laravel | VueJS | Docker | MySQL</h2> 
+  
+    
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davijulio/)
+[![LinKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-j%C3%BAlio-801801240/)
+[![GEmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-davi.netlify.app/)
 </div>
 
 <div align="center">  
@@ -10,22 +16,13 @@
 
 ## my Skills :
 
-<div align="center">
+<div>
   
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,mysql,javascript,jquery,docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vscode,git&theme=light)](https://skillicons.dev)
 </div>
 
-## Contact :
 
-<div> 
-
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davijulio/)
-[![LinKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-j%C3%BAlio-801801240/)
-[![GEmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-davi.netlify.app/)
-
-</div>
 
 
 
