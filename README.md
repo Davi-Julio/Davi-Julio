@@ -1,5 +1,5 @@
 <div  align="center">
-  <h2>Full Stack Developer - PHP | Laravel | VueJS | Docker | MySQL</h2> 
+  <h2>📌Full Stack Developer - PHP | Laravel | VueJS | Docker | MySQL</h2> 
   
     
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davijulio/)
