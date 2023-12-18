@@ -1,12 +1,3 @@
-<div align="center"> 
-
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davijulio/)
-[![LinKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-j%C3%BAlio-801801240/)
-[![GEmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-davi.netlify.app/)
-
-</div>
-
 <div  align="center">
   <h2>Full Stack Developer - PHP | Laravel | VueJS | JavaScript | MySQL</h2> 
 </div>
@@ -25,6 +16,17 @@ Docker: Utilizo Docker para facilitar a criação, distribuição e execução d
 
 Desenvolvimento Full Stack: Tenho uma abordagem holística para o desenvolvimento, cobrindo tanto o front-end quanto o back-end. Isso me permite criar soluções completas e integradas para os projetos em que estou envolvido.
   </p>
+</div>
+
+##
+
+<div align="center"> 
+
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davijulio/)
+[![LinKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-j%C3%BAlio-801801240/)
+[![GEmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-davi.netlify.app/)
+
 </div>
 
 ##
