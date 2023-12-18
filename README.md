@@ -1,7 +1,3 @@
-<div  align="center">
-  <h2>Full Stack Developer - PHP | Laravel | VueJS | JavaScript | MySQL</h2> 
-</div>
-
 <div align="center"> 
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davijulio/)
@@ -11,9 +7,10 @@
 
 </div>
 
-##
+<div  align="center">
+  <h2>Full Stack Developer - PHP | Laravel | VueJS | JavaScript | MySQL</h2> 
+</div>
 
- 📌 skills:
 <div  align="center" display="inline-block">
   
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,mysql,javascript,jquery,docker)](https://skillicons.dev)
