@@ -16,12 +16,17 @@
 
 ## my Skills :
 
-<div>
+<div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,mysql,javascript,jquery,docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vscode,git&theme=light)](https://skillicons.dev)
 </div>
 
+<div align="center">
+  <img width="50%" src="https://github.com/Davi-Julio/Davi-Julio/assets/113315375/4658d96c-1c10-43b5-9f26-a2a69676d7d2">
+
+  
+</div>
 
 
 
