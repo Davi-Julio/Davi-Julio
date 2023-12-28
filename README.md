@@ -7,18 +7,19 @@
 I am a  Full-Stack Developer, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies:
-- PHP; [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-- Laravel; [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
-- VueJS; [![My Skills](https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev)
-- MySQL; [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-- Docker; [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,mysql,docker,nginx,javascript,jquery,bootstrap,html,css,git)](https://skillicons.dev)
+- PHP;
+- Laravel;
+- VueJS;
+- MySQL;
+- Docker;
 - Rest APIs;
-- NGinx;  [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
-- JavaScript; [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-- JQuery; [![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
-- Bootstrap; [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-- HTML AND CSS; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-- Git; [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+- NGinx;
+- JavaScript;
+- JQuery;
+- Bootstrap;
+- HTML AND CSS;
+- Git;
 
 
 I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
