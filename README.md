@@ -1,6 +1,6 @@
 # Hi, my name is Davi!
 
-👨🏻‍💻 Full-Stack Developer - PHP | Laravel | VueJS | MySQl | Docker
+👨🏻‍💻 Full-Stack Developer - PHP | Laravel | VueJS | MySQL | Docker
 
 
 ## About
