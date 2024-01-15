@@ -21,7 +21,6 @@ I have experiencie with the following technologies:
 - HTML AND CSS;
 - Git;
 
-
 I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
 I have experience in developing following the S.O.L.I.D, Clean Architecture, Clean Code and TDD principles.
 
