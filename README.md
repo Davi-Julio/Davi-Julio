@@ -2,7 +2,6 @@
 
 <h3>👨🏻‍💻 Full-Stack Developer | PHP | Laravel | VueJS | MySQL | Docker </h3>
 
-
 ## About
 I am a  Full-Stack Developer, in love with the tech area and passionate about solving problems.
 
