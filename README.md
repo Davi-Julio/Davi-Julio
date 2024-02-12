@@ -7,6 +7,7 @@ I am a  Full-Stack Developer, in love with the tech area and passionate about so
 
 I have experiencie with the following technologies:
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,mysql,docker,nginx,javascript,jquery,bootstrap,html,css,git)](https://skillicons.dev)
 
 - PHP;
