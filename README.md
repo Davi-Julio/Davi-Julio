@@ -6,14 +6,15 @@
 I am a  Full-Stack Developer, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,mysql,docker,nginx,javascript,jquery,bootstrap,html,css,git)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,mysql,docker,javascript,jquery,bootstrap,html,css,git)](https://skillicons.dev)
+
 - PHP;
 - Laravel;
 - VueJS;
 - MySQL;
 - Docker;
 - Rest APIs;
-- NGinx;
 - JavaScript;
 - JQuery;
 - Bootstrap;
